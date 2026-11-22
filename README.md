@@ -6,12 +6,12 @@
 
 ## 1. Grup Üyeleri
 
-| Ad Soyad | Öğrenci No | Sorumluluk |
-|---|---|---|
-| Efecan Çırak | 032190079 | |
-| Tolga Babacan | 032190029 | |
-| Meryem Kiremitçi | 032290116 | |
-| Şevval Tutaş | 032290115 | |
+| Ad Soyad | Öğrenci No |
+|---|---|
+| Efecan Çırak | 032190079 |
+| Tolga Babacan | 032190029 |
+| Meryem Kiremitçi | 032290116 |
+| Şevval Tutaş | 032290115 |
 
 ## 2. Amaç, Problem Tanımı ve Kapsam
 
